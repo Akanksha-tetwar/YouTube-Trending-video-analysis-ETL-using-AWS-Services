@@ -1,0 +1,12 @@
+
+
+QuickSight Account Name :
+youtube-data-analysis
+QuickSight User Name:
+akanksha-de-project
+
+Links to the Dashboard:
+
+https://us-east-1.quicksight.aws.amazon.com/sn/analyses/63c7c6c7-e6f0-427d-964a-18f317b648e3
+https://us-east-1.quicksight.aws.amazon.com/sn/accounts/645100754512/dashboards/0e7b316e-c70e-4e98-a003-a7faae134fa6?directory_alias=youtube-data-analysis
+
